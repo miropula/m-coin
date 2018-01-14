@@ -1,9 +1,9 @@
-Litecoin Core integration/staging tree
+LaXo coin integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
 
-https://litecoin.org
+https://laxocoin.tk
 
 What is Litecoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Litecoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
+the Litecoin Core software, see [https://laxocoin.tk](https://laxocoin.tk).
 
 License
 -------
