@@ -5,10 +5,10 @@ LaXo coin integration/staging tree
 
 https://laxocoin.tk
 
-What is Litecoin?
+What is LaXo coin?
 ----------------
 
-Litecoin is an experimental digital currency that enables instant payments to
+LaXo coin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Litecoin Core is the name of open source
@@ -27,12 +27,12 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/litecoin-project/litecoin/tags) are created
+completely stable. [Tags](https://github.com/miropula/m-coin/tags) are created
 regularly to indicate new official, stable release versions of Litecoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
+The developer [mailing list](https://groups.google.com/forum/#!forum/laxocoin-dev)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
